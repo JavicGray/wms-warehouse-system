@@ -1,3 +1,8 @@
+/**
+ * @Author: JavicGray
+ * @Version: 1.0
+ * @Description: Бизнес-логика управления складскими транзакциями (Приход/Расход) WMS
+ */
 package com.example.wms.exception;
 
 import org.springframework.http.ResponseEntity;
